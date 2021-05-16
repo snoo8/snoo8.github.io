@@ -1,0 +1,10 @@
+body {
+	font-family: "Lucida Console", "Courier New", monospace;
+	background-color: #222;
+	color: white;
+	margin-left: 15px;
+}
+
+a {
+	color: orange;
+}
