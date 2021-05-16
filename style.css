@@ -13,3 +13,8 @@ a {
 	display: flex;
 	flex-wrap: wrap;
 }
+
+.game-icon {
+	width: 100px;
+	height: 100px;
+}
